@@ -5,10 +5,10 @@
 }
 
 .box {
-    height: 50vh;
-    width: 50%;
-    background-color: azure;
-    position: auto;
+    height: 500px;
+    width: 500px;
+    background-color: pink;
     box-sizing: border-box;
-    
+    text-align: center;
+    padding: 10%;
 }
