@@ -1,0 +1,14 @@
+.my-name {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: auto;
+
+}
+
+.box {
+    height: 50vh;
+    width: 50%;
+    background-color: azure;
+    position: auto;
+    box-sizing: border-box;
+    
+}
